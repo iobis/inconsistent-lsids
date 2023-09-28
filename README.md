@@ -4,5 +4,5 @@ This is a listing of inconsistent use of `scientificNameID` in OBIS datasets. In
 
 This repository contains the following CSV files:
 
-- [issues.csv](issues.csv): listing of scientific names with originating dataset.
-- [issue_datasets.csv](issue_datasets.csv): listing of datasets with potential issues.
+- [issues.csv](issues.csv?plain=1): listing of scientific names with originating dataset.
+- [issue_datasets.csv](issue_datasets.csv?plain=1): listing of datasets with potential issues.
