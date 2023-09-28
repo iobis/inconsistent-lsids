@@ -1,6 +1,6 @@
 # inconsistent-lsids
 
-This is a listing of inconsistent use of `scientificNameID` in OBIS datasets. Inconsistent use means that a `scientificName` is combined with multiple distinct `scientificNameID`s and corresponding interpreted scientific names.
+This is a listing of inconsistent use of `scientificNameID` in OBIS datasets. Inconsistent use means that a `scientificName` is combined with multiple distinct `scientificNameID`s and corresponding interpreted scientific names, for example by extrapolating instead of copying in Excel.
 
 This repository contains the following CSV files:
 
